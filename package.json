@@ -1,0 +1,22 @@
+{
+  "name": "hamber",
+  "version": "0.1.0",
+  "description": "hamber ======",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaocampinhos/hamber.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaocampinhos/hamber/issues"
+  },
+  "homepage": "https://github.com/joaocampinhos/hamber",
+  "dependencies": {
+    "hapi": "^8.0.0"
+  }
+}
